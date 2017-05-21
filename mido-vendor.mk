@@ -227,7 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/mido/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/xiaomi/mido/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
-    vendor/xiaomi/mido/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/xiaomi/mido/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/mido/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/xiaomi/mido/proprietary/lib64/hw/consumerir.msm8953.so:system/lib64/hw/consumerir.msm8953.so \
