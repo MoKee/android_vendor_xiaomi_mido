@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/mido/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/mido/proprietary/bin/cnss_diag:system/bin/cnss_diag \
-    vendor/xiaomi/mido/proprietary/bin/displayfeature:system/bin/displayfeature \
     vendor/xiaomi/mido/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/xiaomi/mido/proprietary/bin/dun-server:system/bin/dun-server \
     vendor/xiaomi/mido/proprietary/bin/energy-awareness:system/bin/energy-awareness \
@@ -188,7 +187,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/lib/hw/fingerprint.searchf.so:system/lib/hw/fingerprint.searchf.so \
     vendor/xiaomi/mido/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/xiaomi/mido/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
-    vendor/xiaomi/mido/proprietary/lib/libdisplayfeatureservice.so:system/lib/libdisplayfeatureservice.so \
     vendor/xiaomi/mido/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/xiaomi/mido/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/xiaomi/mido/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
@@ -205,7 +203,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/lib64/hw/fingerprint.searchf.so:system/lib64/hw/fingerprint.searchf.so \
     vendor/xiaomi/mido/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/xiaomi/mido/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
-    vendor/xiaomi/mido/proprietary/lib64/libdisplayfeatureservice.so:system/lib64/libdisplayfeatureservice.so \
     vendor/xiaomi/mido/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
     vendor/xiaomi/mido/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
     vendor/xiaomi/mido/proprietary/lib64/libfpservice.so:system/lib64/libfpservice.so \
